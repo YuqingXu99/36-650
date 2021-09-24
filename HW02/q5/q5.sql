@@ -1,0 +1,5 @@
+INSERT INTO RDATA (a, b, x) VALUES
+('hw05a', 'hw05b', 85.5);
+	
+	
+SELECT * FROM RDATA;
