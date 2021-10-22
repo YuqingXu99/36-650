@@ -1,5 +1,5 @@
 def palindrome(string):
-    if len(string) == 1:
+    if len(string) == 1 or len(string) == 0:
         return True
     else:
         start, end = 0, len(string)-1
